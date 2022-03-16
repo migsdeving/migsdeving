@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Miguel👋
 
 
 - 🔭 I’m currently working on Web3 Frontend Development
