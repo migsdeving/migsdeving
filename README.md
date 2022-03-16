@@ -1,5 +1,3 @@
-![migsdeving](https://i.imgur.com/9ze4WfW.png)
-
 ### Hi I'm Miguel👋
 
 
@@ -9,4 +7,6 @@
 - 🤔 I’m looking for help with a Blockchain Game
 - 💬 Ask me about Web3
 - 📫 How to reach me: [Twitter](https://twitter.com/migscrypto)
+
+![migsdeving GitHub stats](https://github-readme-stats.vercel.app/api?username=migsdeving&show_icons=true&theme=radical)
 
