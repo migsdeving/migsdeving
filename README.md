@@ -1,11 +1,10 @@
 ### Hi I'm Miguel👋
 
 
-- 🔭 I’m currently working on Web3 Frontend Development
-- 🌱 I’m currently learning Solidity
-- 👯 I’m looking to collaborate on Blockchain Development
-- 🤔 I’m looking for help with a Blockchain Game
-- 💬 Ask me about Web3
+- 🔭 I’m currently working on Frontend Development
+- 🌱 I’m currently learning the T3 stack
+- 👯 I’m looking to collaborate on exciting open source projects
+- 💬 Ask me about React
 - 📫 How to reach me: [Twitter](https://twitter.com/migscrypto)
 
 
