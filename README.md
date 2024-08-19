@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning the T3 stack
 - 👯 I’m looking to collaborate on exciting open source projects
 - 💬 Ask me about React
-- 📫 How to reach me: [Twitter](https://twitter.com/migscrypto)
+- 📫 How to reach me: [Twitter](https://twitter.com/migsdeving)
 
 
 
